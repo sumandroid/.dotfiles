@@ -26,4 +26,5 @@ filetype plugin indent on
 let g:rubycomplete_buffer_loading = 1
 let g:rubycomplete_rails = 1
 set backspace=indent,eol,start
+set gfn=Monaco:h12
 vmap D y'>p
